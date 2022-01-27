@@ -62,6 +62,10 @@ Agenda
 * Solidity is programming language for Ethereum Virtual Machine (EVM)
 * Remix IDE https://remix-project.org/
 
+# Web3.js #
+![image](https://user-images.githubusercontent.com/38141864/151440624-f7630b40-a3b3-4612-b9e8-f92329f24685.png)
+
+
 # DEFI #
 ![image](https://user-images.githubusercontent.com/38141864/151437688-d006eb02-efba-4057-8134-4288142ff452.png)
 
