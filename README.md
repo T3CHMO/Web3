@@ -5,13 +5,13 @@ Agenda
 1. WEB 1.0, 2.0 and 3.0
 2. Decentralization
 3. World computer
-4. Smart contracts
 5. Wallets
 6. Transactions
 7. PoW vs PoS
-8. DEFI
-9. NFTs
-10. DEMO
+8. Smart contracts
+9. DEFI
+10. NFTs
+11. DEMO
 
 # Different WEB's #
 * Web 1.0 readonly, static, few users, only some companies
@@ -57,11 +57,24 @@ Agenda
 
 ![image](https://user-images.githubusercontent.com/38141864/151436862-d5cbea24-6fab-4391-9117-f854e9029891.png)
 
+# Smart contracts #
+![image](https://user-images.githubusercontent.com/38141864/151439517-3808884e-d48a-47a4-be2c-e53c9df2f831.png)
+* Solidity is programming language for Ethereum Virtual Machine (EVM)
+* Remix IDE https://remix-project.org/
+
 # DEFI #
 ![image](https://user-images.githubusercontent.com/38141864/151437688-d006eb02-efba-4057-8134-4288142ff452.png)
 
 * This is already happening, fintech are in the first line, but banks are following.
-* DEFI is offering me 11% on stablecoins, but its not for all. Not all users want to menage their private keys in proper way. Banks will do that for them. 
+* DEFI is offering 11% on stablecoins, but its not for all. Not all users want to menage their private keys in proper way. Banks will do that for them. 
+* How that high interest is made? Is it scam?
+* Other users can borrow your assests and pay interest to you.
+
+# NFT's # 
+
+# DEMO # 
+
+
 
 
 
