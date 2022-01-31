@@ -125,7 +125,12 @@ https://ethtps.info/
 # TOKENS #
 
 * Fungible tokens - ERC-20
+ * Stablecoins
+ * Governance tokens
+ * Any other tokens 
 * Non-fungible tikens - ERC-721
+ * Art
+ * Game items 
 
 # NFT's # 
 
@@ -171,10 +176,20 @@ https://ethtps.info/
 * PoW - energy consumption -> PoS reduce consumption by 99%
 
 # SUMMARY #
-* Permisionless
-* Ownership
+* WEB 1.0, 2.0 and 3.0
 * Decentralization
-* Community
+* World computer
+* Wallets
+* Transactions
+* PoW vs PoS
+* Nodes
+* Smart contracts
+* Architecture
+* Storage
+* Tokens
+* NFTs
+* DEFI
+* Problems
 
 # Questions #
 ???????
