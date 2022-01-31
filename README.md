@@ -8,14 +8,15 @@ Agenda
 5. Wallets
 6. Transactions
 7. PoW vs PoS
-8. Smart contracts
-9. Architecture
-10. Storage
-11. DEFI
-12. Tokens
-13. NFTs
-14. Demo
-15. Problems
+8. Nodes
+9. Smart contracts
+10. Architecture
+11. Storage
+12. DEFI
+13. Tokens
+14. NFTs
+15. Demo
+16. Problems
 
 # Different WEB's #
 * Web 1.0 readonly, static, few users, only some companies
@@ -77,7 +78,14 @@ https://ethtps.info/
 * Writing to it requires fee = GAS
 * Examine transactions on Etherscan https://etherscan.io/
 
+# PoW vs PoS #
 ![image](https://user-images.githubusercontent.com/38141864/151436862-d5cbea24-6fab-4391-9117-f854e9029891.png)
+
+# Node #
+* Key element of infrastructure, maybe most important
+* Node != Miner/Validator
+* Everyone should be able to run a node
+* Node services
 
 # Smart contracts #
 
