@@ -106,11 +106,18 @@ https://ethtps.info/
 ![image](https://user-images.githubusercontent.com/38141864/151437688-d006eb02-efba-4057-8134-4288142ff452.png)
 
 * This is already happening, fintech are in the first line, but banks are following.
-* DEFI is offering 11% on stablecoins, but its not for all. Not all users want to menage their private keys in proper way. Banks will do that for them. 
-* How that high interest is made? Is it scam?
-* Other users can borrow your assests and pay interest to you.
+* DEFI is offering 11% on stablecoins, new strategies are being explored
+* Not all users want to menage their private keys in proper way. Banks or fintechs will do that for them. 
+* Other users can borrow your assests and pay interest to you. Without intermediaries.
 
 # NFT's # 
+* Overpriced jpegs
+* True ownership of unique digital item
+* Game items can be used in different games
+* True metaverse
+
+![image](https://en.wikipedia.org/wiki/CryptoPunks#/media/File:Cryptopunks_general.jpg)
+![image](https://cdn.wallpapersafari.com/6/83/w845fo.png)
 
 # DEMO # 
 
