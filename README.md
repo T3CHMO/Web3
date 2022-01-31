@@ -110,16 +110,24 @@ https://ethtps.info/
 * Not all users want to menage their private keys in proper way. Banks or fintechs will do that for them. 
 * Other users can borrow your assests and pay interest to you. Without intermediaries.
 
+# DEMO # 
+![image](https://user-images.githubusercontent.com/38141864/151765682-da002f15-0505-43c7-a330-8ee2b08ac5e6.png)
+
+
+
 # NFT's # 
 * Overpriced jpegs
 * True ownership of unique digital item
 * Game items can be used in different games
 * True metaverse
+* Liquidity provides
 
 ![image](https://en.wikipedia.org/wiki/CryptoPunks#/media/File:Cryptopunks_general.jpg)
 ![image](https://cdn.wallpapersafari.com/6/83/w845fo.png)
+![image](![image](https://user-images.githubusercontent.com/38141864/151765226-df06f260-a684-4f39-b5f2-ade10f6faf27.png)
 
-# DEMO # 
+
+
 
 
 
