@@ -9,9 +9,11 @@ Agenda
 6. Transactions
 7. PoW vs PoS
 8. Smart contracts
-9. DEFI
-10. NFTs
-11. DEMO
+9. Architecture
+10. Storage
+11. DEFI
+12. NFTs
+13. DEMO
 
 # Different WEB's #
 * Web 1.0 readonly, static, few users, only some companies
@@ -111,6 +113,8 @@ https://ethtps.info/
 * DEFI is offering 11% on stablecoins, new strategies are being explored
 * Not all users want to menage their private keys in proper way. Banks or fintechs will do that for them. 
 * Other users can borrow your assests and pay interest to you. Without intermediaries.
+https://compound.finance/markets
+https://aave.com/
 
 # DEMO # 
 ![image](https://user-images.githubusercontent.com/38141864/151765682-da002f15-0505-43c7-a330-8ee2b08ac5e6.png)
