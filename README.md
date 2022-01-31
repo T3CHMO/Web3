@@ -12,9 +12,9 @@ Agenda
 9. Architecture
 10. Storage
 11. DEFI
-12. TOKENS
+12. Tokens
 13. NFTs
-14. DEMO
+14. Demo
 
 # Different WEB's #
 * Web 1.0 readonly, static, few users, only some companies
@@ -79,6 +79,7 @@ https://ethtps.info/
 ![image](https://user-images.githubusercontent.com/38141864/151436862-d5cbea24-6fab-4391-9117-f854e9029891.png)
 
 # Smart contracts #
+
 ![image](https://user-images.githubusercontent.com/38141864/151758893-c377e21f-9447-446e-beb8-10ddc303b3b0.png)
 
 * Solidity is programming language for Ethereum Virtual Machine (EVM)
@@ -92,12 +93,14 @@ https://ethtps.info/
 
 
 # Architecture #
+
 * Blockchain is a backend
 * Frontent is using web3.js or ethers.js libraty to interact with backend
 
 ![image](https://user-images.githubusercontent.com/38141864/151440624-f7630b40-a3b3-4612-b9e8-f92329f24685.png)
 
 # Storege #
+
 ![image](https://user-images.githubusercontent.com/38141864/151760112-27f3fedc-0ee9-4ec9-a080-465dcaaea39b.png)
 
 * IPFS - interplanetary file system
@@ -109,10 +112,12 @@ https://ethtps.info/
 ![image](https://miro.medium.com/max/1310/0*1rGbLPMxd_6CwFCJ)
 
 # TOKENS #
+
 * Fungible tokens - ERC-20
 * Non-fungible tikens - ERC-721
 
 # NFT's # 
+
 * Overpriced jpegs
 * True ownership of unique digital item
 * Game items can be used in different games
@@ -124,6 +129,7 @@ https://ethtps.info/
 ![image](https://user-images.githubusercontent.com/38141864/151765226-df06f260-a684-4f39-b5f2-ade10f6faf27.png)
 
 # DEFI #
+
 ![image](https://user-images.githubusercontent.com/38141864/151437688-d006eb02-efba-4057-8134-4288142ff452.png)
 
 * This is already happening, fintech are in the first line, but banks are following.
@@ -134,6 +140,7 @@ https://ethtps.info/
 * https://aave.com/
 
 # DEMO # 
+
 ![image](https://user-images.githubusercontent.com/38141864/151765682-da002f15-0505-43c7-a330-8ee2b08ac5e6.png)
 
 # OVERVIEW #
