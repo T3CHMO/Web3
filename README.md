@@ -81,7 +81,13 @@ Agenda
 ![image](https://user-images.githubusercontent.com/38141864/151440624-f7630b40-a3b3-4612-b9e8-f92329f24685.png)
 
 # Storege #
+![image](https://user-images.githubusercontent.com/38141864/151760112-27f3fedc-0ee9-4ec9-a080-465dcaaea39b.png)
+
 * IPFS - interplanetary file system
+* Content-based storage instead of location-based
+* File must be pinned
+* Hash is generated during upload, file cant be changed
+* Website can be hosted on IPFS
 
 ![image](https://miro.medium.com/max/1310/0*1rGbLPMxd_6CwFCJ)
 
