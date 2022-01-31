@@ -39,6 +39,17 @@ Agenda
 
 ![image](https://user-images.githubusercontent.com/38141864/151434669-af99308e-bea7-475c-924c-3b4ee4b5419e.png)
 
+# Decentralization trilemma #
+* New EVM forks are compromising on DECENTRALIZATION or SECURITY to gain speed.
+* Ethereum is slow, and demant is huge -> High transaction fees
+* Scailing blockchains using Layer 2 
+* Ethereum currenty 4 TPS, using L2 we can scale to 10 000 TPS not compromising DECENTRALIZATION or SECURITY.
+* L2 are posting cryptographic proofs to L1 
+
+https://ethtps.info/
+
+![image](https://user-images.githubusercontent.com/38141864/151760555-a63a5347-a067-41ec-aeeb-75f658c79c4b.png)
+
 # Proof of work vs proof of stake #
 * Transaction needs to be mined or validated to be added to blockchain
 * Difference between PoW and PoS
