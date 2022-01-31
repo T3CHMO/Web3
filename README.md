@@ -33,7 +33,6 @@ Agenda
 
 * Ethereum founded in 2016 
 * Blockchain with not only payments, but with ability to execute code in decentralized way = Smart contract
-* Ethereum is LEGO
 * Enables to create dApps, Tokens, NFTs.
 * After deployment code can't be changed
 
@@ -63,14 +62,13 @@ https://ethtps.info/
 * Public key 0x8c70d45566F6786CEFCb15C9c9570407f826f5c9
 * A private key is nothing else than 64 random hex characters, never share it! :)
 * Not your key's not your crypto
-* 
+
 ![image](https://user-images.githubusercontent.com/38141864/151434979-40330c4e-1667-492d-bc9d-a8d88b0691e1.png)
 
 # Transactions #
 * Reading blockchains is free
-* Writing to it requires fee
+* Writing to it requires fee = GAS
 * Examine transactions on Etherscan https://etherscan.io/
-
 
 ![image](https://user-images.githubusercontent.com/38141864/151436862-d5cbea24-6fab-4391-9117-f854e9029891.png)
 
@@ -80,6 +78,7 @@ https://ethtps.info/
 * Solidity is programming language for Ethereum Virtual Machine (EVM)
 * Solidity code is compiled to bytecode which is deployed to network by transaction 
 * Bytecode is running in EVM when transaction is mined/validated - only when changing state of blockchain
+* ABI - application binary interface is used to inrteract with backend
 * Remix IDE https://remix-project.org/
 
 ![image](https://user-images.githubusercontent.com/38141864/151759959-d3ec23c9-5a6c-443a-a101-08cc616a710c.png)
