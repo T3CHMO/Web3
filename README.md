@@ -96,6 +96,8 @@ https://ethtps.info/
 * Bytecode is running in EVM when transaction is mined/validated - only when changing state of blockchain
 * ABI - application binary interface is used to inrteract with backend
 * OpenZeppelin - standart implementation of interfaces https://openzeppelin.com/contracts/
+* Full deterministic, random number can't be generated
+* Oracles - protocols that use smart contracts to provide off-chain data, random numbers 
 * Remix IDE https://remix-project.org/
 
 ![image](https://user-images.githubusercontent.com/38141864/151759959-d3ec23c9-5a6c-443a-a101-08cc616a710c.png)
