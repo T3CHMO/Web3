@@ -39,32 +39,51 @@ Agenda
 
 ![image](https://user-images.githubusercontent.com/38141864/151434669-af99308e-bea7-475c-924c-3b4ee4b5419e.png)
 
-# Wallets #
-![image](https://user-images.githubusercontent.com/38141864/151434979-40330c4e-1667-492d-bc9d-a8d88b0691e1.png)
+# Proof of work vs proof of stake #
+* Transaction needs to be mined or validated to be added to blockchain
+* Difference between PoW and PoS
+*  PoS will be shipped in 2022
 
+# Wallets #
+
+* Two types of accounts
+  * Externaly owned account
+  * Smart contract  
 * Public key 0x8c70d45566F6786CEFCb15C9c9570407f826f5c9
 * A private key is nothing else than 64 random hex characters, never share it! :)
 * Not your key's not your crypto
+* 
+![image](https://user-images.githubusercontent.com/38141864/151434979-40330c4e-1667-492d-bc9d-a8d88b0691e1.png)
 
 # Transactions #
 * Reading blockchains is free
 * Writing to it requires fee
 * Examine transactions on Etherscan https://etherscan.io/
 
-# Proof of work vs proof of stake #
-* Transaction needs to be mined or validated to be added to blockchain
-* Difference between PoW and PoS
 
 ![image](https://user-images.githubusercontent.com/38141864/151436862-d5cbea24-6fab-4391-9117-f854e9029891.png)
 
 # Smart contracts #
-![image](https://user-images.githubusercontent.com/38141864/151439517-3808884e-d48a-47a4-be2c-e53c9df2f831.png)
+![image](https://user-images.githubusercontent.com/38141864/151758893-c377e21f-9447-446e-beb8-10ddc303b3b0.png)
+
 * Solidity is programming language for Ethereum Virtual Machine (EVM)
+* Solidity code is compiled to bytecode which is deployed to network by transaction 
+* Bytecode is running in EVM when transaction is mined/validated - only when changing state of blockchain
 * Remix IDE https://remix-project.org/
 
-# Web3.js #
+![image](https://user-images.githubusercontent.com/38141864/151759959-d3ec23c9-5a6c-443a-a101-08cc616a710c.png)
+
+
+# Architecture #
+* Blockchain is a backend
+* Frontent is using web3.js or ethers.js libraty to interact with backend
+
 ![image](https://user-images.githubusercontent.com/38141864/151440624-f7630b40-a3b3-4612-b9e8-f92329f24685.png)
 
+# Storege #
+* IPFS - interplanetary file system
+
+![image](https://miro.medium.com/max/1310/0*1rGbLPMxd_6CwFCJ)
 
 # DEFI #
 ![image](https://user-images.githubusercontent.com/38141864/151437688-d006eb02-efba-4057-8134-4288142ff452.png)
