@@ -139,14 +139,18 @@ https://ethtps.info/
 
 # DEFI #
 
+![image](https://user-images.githubusercontent.com/38141864/151808169-e617d0a8-1c14-4e9f-a105-838e84bd0034.png)
+
+* Decentralized finance - finantial products that anyone can used and benefit from
+* DEFI is offering 11% on stablecoins, new strategies are being explored
+* Users can borrow your assests and pay interest to you. Without intermediaries.
+* https://compound.finance/markets
+* https://aave.com/
+
 ![image](https://user-images.githubusercontent.com/38141864/151437688-d006eb02-efba-4057-8134-4288142ff452.png)
 
 * This is already happening, fintech are in the first line, but banks are following.
-* DEFI is offering 11% on stablecoins, new strategies are being explored
 * Not all users want to menage their private keys in proper way. Banks or fintechs will do that for them. 
-* Other users can borrow your assests and pay interest to you. Without intermediaries.
-* https://compound.finance/markets
-* https://aave.com/
 
 # DEMO # 
 
