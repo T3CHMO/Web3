@@ -15,6 +15,7 @@ Agenda
 12. Tokens
 13. NFTs
 14. Demo
+15. Problems
 
 # Different WEB's #
 * Web 1.0 readonly, static, few users, only some companies
@@ -148,6 +149,21 @@ https://ethtps.info/
 ![image](https://user-images.githubusercontent.com/38141864/151795611-8ae73667-9fdb-4e16-bf4f-13ade20c66ef.png)
 
 
+# Problems #
+* High gas fees - L2
+* Decentralized storage options - IPFS, more options needs to be explored
+* Wallets - Social wallets and recovery
+* Scams
+* PoW - energy consumption -> PoS reduce consumption by 99%
+
+# SUMMARY #
+* Permisionless
+* Ownership
+* Decentralization
+* Community
+
+# Questions #
+???????
 
 
 
