@@ -19,7 +19,8 @@ Agenda
 * Web 3.0 owned by users, decentralized with no intermediaries, new business models 
 
 ![image](https://images.ctfassets.net/6g4gfm8wk7b6/7c535zBiycZLdLW1e8TTcv/2996e54c9eb3c812e272e431edf146ad/21.12.02_Web3.png?w=1860&fm=jpg&fl=progressive)
-![image](https://crypto-box.jp/wp-content/uploads/2021/12/5-1-768x432.jpg)
+![image](https://user-images.githubusercontent.com/38141864/151798478-2bbeb9ed-b7a6-4ab9-b43e-f8f317209626.png)
+
 
 # Decentralization #
 * Think about your accounts, are you really own them?
