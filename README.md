@@ -113,8 +113,8 @@ https://ethtps.info/
 * DEFI is offering 11% on stablecoins, new strategies are being explored
 * Not all users want to menage their private keys in proper way. Banks or fintechs will do that for them. 
 * Other users can borrow your assests and pay interest to you. Without intermediaries.
-https://compound.finance/markets
-https://aave.com/
+* https://compound.finance/markets
+* https://aave.com/
 
 # DEMO # 
 ![image](https://user-images.githubusercontent.com/38141864/151765682-da002f15-0505-43c7-a330-8ee2b08ac5e6.png)
