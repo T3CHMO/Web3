@@ -12,8 +12,9 @@ Agenda
 9. Architecture
 10. Storage
 11. DEFI
-12. NFTs
-13. DEMO
+12. TOKENS
+13. NFTs
+14. DEMO
 
 # Different WEB's #
 * Web 1.0 readonly, static, few users, only some companies
@@ -84,6 +85,7 @@ https://ethtps.info/
 * Solidity code is compiled to bytecode which is deployed to network by transaction 
 * Bytecode is running in EVM when transaction is mined/validated - only when changing state of blockchain
 * ABI - application binary interface is used to inrteract with backend
+* OpenZeppelin - standart implementation of interfaces https://openzeppelin.com/contracts/
 * Remix IDE https://remix-project.org/
 
 ![image](https://user-images.githubusercontent.com/38141864/151759959-d3ec23c9-5a6c-443a-a101-08cc616a710c.png)
@@ -106,6 +108,21 @@ https://ethtps.info/
 
 ![image](https://miro.medium.com/max/1310/0*1rGbLPMxd_6CwFCJ)
 
+# TOKENS #
+* Fungible tokens - ERC-20
+* Non-fungible tikens - ERC-721
+
+# NFT's # 
+* Overpriced jpegs
+* True ownership of unique digital item
+* Game items can be used in different games
+* True metaverse
+* Liquidity provides
+
+![image](https://user-images.githubusercontent.com/38141864/151798651-cbe46441-10b8-4fff-b69f-b6020d70ad64.png)
+![image](https://cdn.wallpapersafari.com/6/83/w845fo.png)
+![image](https://user-images.githubusercontent.com/38141864/151765226-df06f260-a684-4f39-b5f2-ade10f6faf27.png)
+
 # DEFI #
 ![image](https://user-images.githubusercontent.com/38141864/151437688-d006eb02-efba-4057-8134-4288142ff452.png)
 
@@ -118,19 +135,6 @@ https://ethtps.info/
 
 # DEMO # 
 ![image](https://user-images.githubusercontent.com/38141864/151765682-da002f15-0505-43c7-a330-8ee2b08ac5e6.png)
-
-
-
-# NFT's # 
-* Overpriced jpegs
-* True ownership of unique digital item
-* Game items can be used in different games
-* True metaverse
-* Liquidity provides
-
-![image](https://user-images.githubusercontent.com/38141864/151798651-cbe46441-10b8-4fff-b69f-b6020d70ad64.png)
-![image](https://cdn.wallpapersafari.com/6/83/w845fo.png)
-![image](https://user-images.githubusercontent.com/38141864/151765226-df06f260-a684-4f39-b5f2-ade10f6faf27.png)
 
 # OVERVIEW #
 
