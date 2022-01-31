@@ -17,7 +17,7 @@ Agenda
 * Web 1.0 readonly, static, few users, only some companies
 * Web 2.0 social media, online shopping, web as we know it today in mainstream, controled by corporations
 * Web 3.0 owned by users, decentralized with no intermediaries, new business models 
-![image](https://user-images.githubusercontent.com/38141864/151431792-ac567d16-2d29-40bc-bf0c-3ae797192e38.png)
+![image](https://images.ctfassets.net/6g4gfm8wk7b6/7c535zBiycZLdLW1e8TTcv/2996e54c9eb3c812e272e431edf146ad/21.12.02_Web3.png?w=1860&fm=jpg&fl=progressive)
 
 # Decentralization #
 * Think about your accounts, are you really own them?
