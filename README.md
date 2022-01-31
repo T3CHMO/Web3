@@ -124,7 +124,7 @@ https://ethtps.info/
 * True metaverse
 * Liquidity provides
 
-![image](https://en.wikipedia.org/wiki/CryptoPunks#/media/File:Cryptopunks_general.jpg)
+![image](https://user-images.githubusercontent.com/38141864/151798651-cbe46441-10b8-4fff-b69f-b6020d70ad64.png)
 ![image](https://cdn.wallpapersafari.com/6/83/w845fo.png)
 ![image](![image](https://user-images.githubusercontent.com/38141864/151765226-df06f260-a684-4f39-b5f2-ade10f6faf27.png)
 
