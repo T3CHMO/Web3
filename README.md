@@ -62,6 +62,8 @@ https://ethtps.info/
 * Difference between PoW and PoS
 *  PoS will be shipped in 2022
 
+![image](https://user-images.githubusercontent.com/38141864/151436862-d5cbea24-6fab-4391-9117-f854e9029891.png)
+
 # Wallets #
 
 * Two types of accounts
@@ -77,9 +79,6 @@ https://ethtps.info/
 * Reading blockchains is free
 * Writing to it requires fee = GAS
 * Examine transactions on Etherscan https://etherscan.io/
-
-# PoW vs PoS #
-![image](https://user-images.githubusercontent.com/38141864/151436862-d5cbea24-6fab-4391-9117-f854e9029891.png)
 
 # Node #
 * Key element of infrastructure, maybe most important
@@ -161,6 +160,9 @@ https://ethtps.info/
 
 # DEMO # 
 
+Demo dApp repository
+https://github.com/dappuniversity/dbank
+
 ![image](https://user-images.githubusercontent.com/38141864/151765682-da002f15-0505-43c7-a330-8ee2b08ac5e6.png)
 
 # OVERVIEW #
@@ -175,26 +177,11 @@ https://ethtps.info/
 * Scams
 * PoW - energy consumption -> PoS reduce consumption by 99%
 
-# SUMMARY #
-* WEB 1.0, 2.0 and 3.0
-* Decentralization
-* World computer
-* Wallets
-* Transactions
-* PoW vs PoS
-* Nodes
-* Smart contracts
-* Architecture
-* Storage
-* Tokens
-* NFTs
-* DEFI
-* Problems
-
-
 # Questions #
 * Do you have any questions?
-* I have one!
+
+
+
 
 
 
