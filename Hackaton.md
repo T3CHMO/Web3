@@ -18,10 +18,10 @@
 
 1. Ask for loan
 2. Backend process request
-3. Backend enables user address to take loan
+3. Backend enables user address to take loan without collateral
 4. User is taking loan submiting transaction
 5. Transaction is process in smart contract, user is approving Smart contract to take installment periodicaly
 6. Loan is moved from Smart contract to users wallet
-7. Backend calling periodically smart contract for installment
+7. Backend calling periodically smart contract for installment, or after some time
 8. Loan is paid back periodically without user interaction, or after some period of time
 
