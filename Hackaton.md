@@ -23,5 +23,5 @@
 5. Transaction is process in smart contract, user is approving Smart contract to take installment periodicaly
 6. Loan is moved from Smart contract to users wallet
 7. Backend calling periodically smart contract for installment
-8. Loan is paid back periodically without user interaction
+8. Loan is paid back periodically without user interaction, or after some period of time
 
