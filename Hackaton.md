@@ -3,8 +3,11 @@
 # DEFI Loans #
 
 * Current DEFI implementation for loans
-  * To get loan you need to give collateral, which is taken in case user didnt payoff loan
-  * There are different strategies explored to receive loan withou colateral based on repotation
+  * To get loan user need to give collateral for e.g. ETH to conract
+  * Then user receives loan for e.g USDC, or other token
+  * If user didnt pay off in time collateral stays in contract
+  * This types of loans are used to hold ETH and borrow other currenctiec to do other DEFI strategies, like leverage trading 
+* There are different strategies explored to receive loan without colateral based on repotation
 
 ![image](https://user-images.githubusercontent.com/38141864/152008212-3d2fd765-e9ce-49c1-98b8-ae47d7d2efb9.png)
 
